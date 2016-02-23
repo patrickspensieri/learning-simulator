@@ -330,7 +330,7 @@ public class LearningSimulator extends Application implements InterfaceFX
         switch (i) 
         {
             case 0: {
-                        iv.setImage(new Image("file:IGSTheory.png", true));
+                        iv.setImage(new Image("file:src/images/IGSTheory.png", true));
                         iv.setFitHeight(borderPane.getHeight());
                         iv.setPreserveRatio(true);
                         scrollPane.setContent(iv);
@@ -338,7 +338,7 @@ public class LearningSimulator extends Application implements InterfaceFX
                     }
                     break;
             case 1: {
-                        iv.setImage(new Image("file:LorentzForceTheory.png", true));
+                        iv.setImage(new Image("file:src/images/LorentzForceTheory.png", true));
                         iv.setFitHeight(borderPane.getHeight());
                         iv.setPreserveRatio(true);
                         scrollPane.setContent(iv);
@@ -346,7 +346,7 @@ public class LearningSimulator extends Application implements InterfaceFX
                     }
                     break;
             case 2: {
-                        iv.setImage(new Image("file:ResistorsInParallelTheory.png", true));
+                        iv.setImage(new Image("file:src/images/ResistorsInParallelTheory.png", true));
                         iv.setFitHeight(borderPane.getHeight());
                         iv.setPreserveRatio(true);
                         scrollPane.setContent(iv);

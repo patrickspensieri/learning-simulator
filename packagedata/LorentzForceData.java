@@ -231,7 +231,7 @@ public class LorentzForceData extends AbstractData
         
         //create the projectile (iPad)
         projectile = new ImageView();
-        projectile.setImage(new Image("file:iPad.png", true));
+        projectile.setImage(new Image("file:src/images/iPad.png", true));
         projectile.setPreserveRatio(true);
         projectile.setSmooth(true);
         projectile.setCache(true);
