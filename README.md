@@ -13,3 +13,7 @@ following three topics :
 The program exhibits intuitive and reponsive design to provide a user-friendly experience. 
 Graphs are updated live as parameters are changed by the user and as animations play to clearly demonstrate
 the underlying theory to the user.
+
+![alt tag](https://github.com/patrickspensieri/learning-simulator/blob/master/home.png)
+![alt tag](https://github.com/patrickspensieri/learning-simulator/blob/master/resistors.png)
+![alt tag](https://github.com/patrickspensieri/learning-simulator/blob/master/lorentzTheory.png)
